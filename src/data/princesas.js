@@ -8,7 +8,7 @@
     "poder_especial": "Comunicação com animais",
     "animal_companheiro": "Pássaros da floresta",
     "descricao": "A primeira princesa Disney, conhecida por sua bondade e pureza",
-    "ativa": true
+    "ativa": false
   },
   {
     "id": 2,
